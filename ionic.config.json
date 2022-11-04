@@ -1,0 +1,8 @@
+{
+  "name": "Enurse",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "2a3ac290"
+}

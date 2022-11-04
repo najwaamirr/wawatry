@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Enurse",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
